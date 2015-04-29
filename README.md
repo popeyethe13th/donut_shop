@@ -1,2 +1,1 @@
-The group of us that stayed till late working on the donut shop code (Landon, Kallie, Aristide, Ed, and I) got the permission from Will Haeck to use his code with some name changes, as long as we give him credit. We checked and it doesn't break the honor code. I called him and asked him if that's fine, and he approved us all to use it. We all spent all day trying to figure it out, and considering the complexity of the issue we figured out that it was gonna take well into tomorrow to finish it. So on the end we thought that this is the best solution.
-
+the latest update of the donut store adds an event that allows you to create a new donut store and post the calculations on the same table as other stores.

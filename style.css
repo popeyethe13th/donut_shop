@@ -15,3 +15,13 @@ td {
   text-decoration: underline;
   font-style: italic;
 }
+
+.subtext {
+  transition-property: font-size;
+  transition-duration: 2s;
+  transition-timing-factor: ease-in;
+}
+
+.subtext:hover {
+  font-size: 2em;
+}

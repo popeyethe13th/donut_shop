@@ -1,0 +1,22 @@
+#container {
+  width: 940px;
+  position: relative;
+  margin: 0 auto;
+  left: 200px;
+}
+table {
+
+}
+
+header {
+  top: 0px;
+  width: 8  0%;
+  height: 100px;
+}
+#subtext {
+  position: absolute;
+  top: 0px;
+  left: 400px;
+}
+
+

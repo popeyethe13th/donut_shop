@@ -1,0 +1,17 @@
+body {
+  font-family: 'Oleo Script Swash Caps', cursive;
+  background-color: #1695A3;
+  color: #F3FFE2;
+}
+
+table {
+  padding: 5px;
+  background-color:
+  border: 2px dotted black;
+  color: #F3FFE2;
+}
+
+td {
+  text-decoration: underline;
+  font-style: italic;
+}

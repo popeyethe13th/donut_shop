@@ -13,7 +13,7 @@ header {
   width: 8  0%;
   height: 100px;
 }
-#subtext {
+.subtext {
   position: absolute;
   top: 0px;
   left: 400px;
